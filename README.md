@@ -8,3 +8,10 @@ on the arrangement of a digital interface(website or application).
 - It clarifies the visual structure before the design process begins.
 - It helps identify potential usuability issues before the design process begin and helpls to prevent carrying out major changes during the desigb and development process.
 - It allows the team to focus on naviagtion flow and coten heirachy without being distrated bhy things like font, color or typography.
+
+
+## Key Elements of a Wireframe
+
+### Layout Structure
+
+- 
