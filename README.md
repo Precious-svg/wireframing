@@ -68,3 +68,23 @@ The wireframe provided is a high-fidelity wireframe because it i smore detailed 
 - **Sketch** – A Mac-based tool focused on UI design, popular among professionals
 - **Adobe XD** – Offers wireframing, design, and prototyping features in one application
 - **Whimsical** – Lightweight tool for quick diagrams, wireframes, and user flows.
+
+## Benefits of Wireframing in Software Development
+
+### Clear blueprint
+ This provides a blue print of the layout and structure and allows software developer understand the heirachy of flow and content placement.
+
+ ***Example***: 
+   - The wireframe provided shows how the serach button allows you search for location.
+
+### Reduces miscommunication and improves collaboration
+  This allows stakeholders and the team discuss on what they expect conecrning the behavior of interactive component.
+
+  ***Example***
+    - The type of building or residence that will be listed in the navigation just below the search bar.
+
+### Facilitates efficient time planning and allocation
+  It allows developer to identify the time and resources needed for implememnation. It breakes down the user interface into modular componnets and identifies techjnical issues early.
+
+  ***Example***
+   - The wireframe provided allows us to kown what to build in order based on what is in the user intertace.
