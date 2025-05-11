@@ -100,9 +100,20 @@ The wireframe provided is a high-fidelity wireframe because it i smore detailed 
    - There was no filter option to streamline task based on teir status making users having to navigate all availables task to get to those that are completed.
    - There was no search option.
 
-- ### Resolution
+### Resolution
 
    Thanks to early feedback, the design team revised the wireframe:
     - The search bar was implemented at the top for easy visibilty and convinience.
     - Filter button based on thinsg like date, status was introduced into the wireframe’s interaction flow.
     - The tasklist view was redesigned using color-coding and tooltips for clarity.
+These changes were made before any development began, saving time and avoiding costly redesigns later.
+
+### Impact on the Final Product
+
+The final product was more intuitive and better aligned with the users needs. Testing showed:
+- A 30% reduction in time taken to get task list based on their status such as "pending" 
+- Higher user satisfaction scores in post-launch surveys.
+
+### Conclusion
+
+This scenario highlights the power of wireframing to catch and correct usability issues early. By visualizing and testing the user flow before development, teams can create more efficient and user-friendly products. Wireframing bridges the gap between ideas and implementation, ensuring that both design and development stay aligned with the end user’s needs.
