@@ -88,3 +88,21 @@ The wireframe provided is a high-fidelity wireframe because it i smore detailed 
 
   ***Example***
    - The wireframe provided allows us to kown what to build in order based on what is in the user intertace.
+
+
+## Real-World Scenario: Catching Usability Issues Early
+
+### Scenario: Redesigning a Task Management System
+
+### Identified Issues
+
+  When reviewed by users and advisors:
+   - There was no filter option to streamline task based on teir status making users having to navigate all availables task to get to those that are completed.
+   - There was no search option.
+
+- ### Resolution
+
+   Thanks to early feedback, the design team revised the wireframe:
+    - The search bar was implemented at the top for easy visibilty and convinience.
+    - Filter button based on thinsg like date, status was introduced into the wireframe’s interaction flow.
+    - The tasklist view was redesigned using color-coding and tooltips for clarity.
